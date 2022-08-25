@@ -1,0 +1,25 @@
+-VARIABLES: 
+Con las variables puedes guardar el valor de un objeto y así poder usarla en el futuro.
+
+
+-STRINGS: 
+Es un texto escrito entre comillas: "ejemplo". También puede ser entre comillas simples 
+'ejemplo 2'.
+
+
+-FUNCIONES (ARGUMENTOS): 
+Estos se agregan dentro de las funciones básicas.
+
+
+-FUNCIONES (RETURN): 
+Nos sirve para que la función que se estaba realizando termine y nos lanze o retorne lo que 
+estaba especificado.
+
+
+-DECLARACIONES (IF): 
+El termino "if" es un operador de control de flujo y comparación, y nos sirve para analice 
+lo que solicitamos y dependiendo el resultado nos devuelva "true" o "false".
+
+
+VALORES BOOLEANOS (true) y (false): 
+Es un concepto que sirve para definir un resultado dependiendo de si es verdadero o falso.
